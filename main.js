@@ -504,7 +504,7 @@
 	
 	
 	// module
-	exports.push([module.id, "#introduce[_v-763db353] {\n  position: relative;\n  width: 100%;\n}\n\n#introduce p[_v-763db353] {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  opacity: 0;\n}\n\n#title[_v-763db353] {\n  font-family: Comic Sans MS;\n  margin-top: 10%;\n  top: 0.4rem;\n  -webkit-transition: opacity 2.4s, top 2.4s;\n}\n\n[data-dpr=\"1\"] #title[_v-763db353] {\n  font-size: 25px;\n}\n\n[data-dpr=\"2\"] #title[_v-763db353] {\n  font-size: 50px;\n}\n\n[data-dpr=\"3\"] #title[_v-763db353] {\n  font-size: 75px;\n}\n\n#word[_v-763db353] {\n  margin-top: 0.8rem;\n  top: 0.4rem;\n  -webkit-transition: opacity 2s, top 2s;\n}\n\n[data-dpr=\"1\"] #word[_v-763db353] {\n  font-size: 20px;\n}\n\n[data-dpr=\"2\"] #word[_v-763db353] {\n  font-size: 40px;\n}\n\n[data-dpr=\"3\"] #word[_v-763db353] {\n  font-size: 60px;\n}", "", {"version":3,"sources":["/./<input css 2>"],"names":[],"mappings":"AAAA;EACE,mBAAmB;EACnB,YAAY;CACb;;AAED;EACE,mBAAmB;EACnB,YAAY;EACZ,mBAAmB;EACnB,WAAW;CACZ;;AAED;EACE,2BAA2B;EAC3B,gBAAgB;EAChB,YAAY;EACZ,2CAA2C;CAC5C;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,mBAAmB;EACnB,YAAY;EACZ,uCAAuC;CACxC;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB","file":"introduce.vue","sourcesContent":["#introduce {\n  position: relative;\n  width: 100%;\n}\n\n#introduce p {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  opacity: 0;\n}\n\n#title {\n  font-family: Comic Sans MS;\n  margin-top: 10%;\n  top: 0.4rem;\n  -webkit-transition: opacity 2.4s, top 2.4s;\n}\n\n[data-dpr=\"1\"] #title {\n  font-size: 25px;\n}\n\n[data-dpr=\"2\"] #title {\n  font-size: 50px;\n}\n\n[data-dpr=\"3\"] #title {\n  font-size: 75px;\n}\n\n#word {\n  margin-top: 0.8rem;\n  top: 0.4rem;\n  -webkit-transition: opacity 2s, top 2s;\n}\n\n[data-dpr=\"1\"] #word {\n  font-size: 20px;\n}\n\n[data-dpr=\"2\"] #word {\n  font-size: 40px;\n}\n\n[data-dpr=\"3\"] #word {\n  font-size: 60px;\n}"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "#introduce[_v-763db353] {\n  position: relative;\n  width: 100%;\n}\n\n#introduce p[_v-763db353] {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  opacity: 0;\n}\n\n#title[_v-763db353] {\n  font-family: Comic Sans MS;\n  margin-top: 10%;\n  top: 0.4rem;\n  -webkit-transition: opacity 2.4s, top 2.4s;\n}\n\n[data-dpr=\"1\"] #title[_v-763db353] {\n  font-size: 25px;\n}\n\n[data-dpr=\"2\"] #title[_v-763db353] {\n  font-size: 50px;\n}\n\n[data-dpr=\"3\"] #title[_v-763db353] {\n  font-size: 75px;\n}\n\n#word[_v-763db353] {\n  margin-top: 0.8rem;\n  top: 0.4rem;\n  -webkit-transition: opacity 2s, top 2s;\n}\n\n[data-dpr=\"1\"] #word[_v-763db353] {\n  font-size: 20px;\n}\n\n[data-dpr=\"2\"] #word[_v-763db353] {\n  font-size: 40px;\n}\n\n[data-dpr=\"3\"] #word[_v-763db353] {\n  font-size: 60px;\n}", "", {"version":3,"sources":["/./<input css 3>"],"names":[],"mappings":"AAAA;EACE,mBAAmB;EACnB,YAAY;CACb;;AAED;EACE,mBAAmB;EACnB,YAAY;EACZ,mBAAmB;EACnB,WAAW;CACZ;;AAED;EACE,2BAA2B;EAC3B,gBAAgB;EAChB,YAAY;EACZ,2CAA2C;CAC5C;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,mBAAmB;EACnB,YAAY;EACZ,uCAAuC;CACxC;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB","file":"introduce.vue","sourcesContent":["#introduce {\n  position: relative;\n  width: 100%;\n}\n\n#introduce p {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  opacity: 0;\n}\n\n#title {\n  font-family: Comic Sans MS;\n  margin-top: 10%;\n  top: 0.4rem;\n  -webkit-transition: opacity 2.4s, top 2.4s;\n}\n\n[data-dpr=\"1\"] #title {\n  font-size: 25px;\n}\n\n[data-dpr=\"2\"] #title {\n  font-size: 50px;\n}\n\n[data-dpr=\"3\"] #title {\n  font-size: 75px;\n}\n\n#word {\n  margin-top: 0.8rem;\n  top: 0.4rem;\n  -webkit-transition: opacity 2s, top 2s;\n}\n\n[data-dpr=\"1\"] #word {\n  font-size: 20px;\n}\n\n[data-dpr=\"2\"] #word {\n  font-size: 40px;\n}\n\n[data-dpr=\"3\"] #word {\n  font-size: 60px;\n}"],"sourceRoot":"webpack://"}]);
 	
 	// exports
 
@@ -611,7 +611,7 @@
 	
 	
 	// module
-	exports.push([module.id, "#content[_v-3e518ea6] {\n  position: relative;\n}\n\n.tip[_v-3e518ea6] {\n  width: 50%;\n  position: relative;\n  display: inline-block;\n  margin-top: 1.333333rem;\n}\n\n.choose[_v-3e518ea6] {\n  position: absolute;\n  width: 1.84rem;\n  height: 1.84rem;\n  border: 0.013333rem solid #000;\n  margin-left: 50%;\n  left: -0.933333rem;\n  background-image: url(" + __webpack_require__(17) + ");\n  background-size: 100%;\n  z-index: 1;\n  opacity: 0;\n}\n\n.tipImg[_v-3e518ea6] {\n  position: relative;\n  width: 1.333333rem;\n  height: 1.333333rem;\n  background-size: 100%;\n  border-width: 0.266667rem;\n  border-style: solid;\n  border-radius: 0.933333rem;\n  margin: auto;\n  top: 0;\n  -webkit-transform: rotate(0deg);\n          transform: rotate(0deg);\n  -webkit-animation: ani1 10s;\n}\n\n.tipTitle[_v-3e518ea6] {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  margin-top: 0.266667rem;\n}\n\n[data-dpr=\"1\"] .tipTitle[_v-3e518ea6] {\n  font-size: 18px;\n}\n\n[data-dpr=\"2\"] .tipTitle[_v-3e518ea6] {\n  font-size: 36px;\n}\n\n[data-dpr=\"3\"] .tipTitle[_v-3e518ea6] {\n  font-size: 54px;\n}\n\n@-webkit-keyframes ani1 {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n\n  15% {\n    -webkit-transform: rotate(105deg);\n            transform: rotate(105deg);\n  }\n\n  45% {\n    -webkit-transform: rotate(-90deg);\n            transform: rotate(-90deg);\n  }\n\n  60% {\n    -webkit-transform: rotate(180deg);\n            transform: rotate(180deg);\n  }\n}", "", {"version":3,"sources":["/./<input css 3>"],"names":[],"mappings":"AAAA;EACE,mBAAmB;CACpB;;AAED;EACE,WAAW;EACX,mBAAmB;EACnB,sBAAsB;EACtB,wBAAwB;CACzB;;AAED;EACE,mBAAmB;EACnB,eAAe;EACf,gBAAgB;EAChB,+BAA+B;EAC/B,iBAAiB;EACjB,mBAAmB;EACnB,gDAA4C;EAC5C,sBAAsB;EACtB,WAAW;EACX,WAAW;CACZ;;AAED;EACE,mBAAmB;EACnB,mBAAmB;EACnB,oBAAoB;EACpB,sBAAsB;EACtB,0BAA0B;EAC1B,oBAAoB;EACpB,2BAA2B;EAC3B,aAAa;EACb,OAAO;EACP,gCAAwB;UAAxB,wBAAwB;EACxB,4BAA4B;CAC7B;;AAED;EACE,mBAAmB;EACnB,YAAY;EACZ,mBAAmB;EACnB,wBAAwB;CACzB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE;IACE,gCAAwB;YAAxB,wBAAwB;GACzB;;EAED;IACE,kCAA0B;YAA1B,0BAA0B;GAC3B;;EAED;IACE,kCAA0B;YAA1B,0BAA0B;GAC3B;;EAED;IACE,kCAA0B;YAA1B,0BAA0B;GAC3B;CACF","file":"content.vue","sourcesContent":["#content {\n  position: relative;\n}\n\n.tip {\n  width: 50%;\n  position: relative;\n  display: inline-block;\n  margin-top: 1.333333rem;\n}\n\n.choose {\n  position: absolute;\n  width: 1.84rem;\n  height: 1.84rem;\n  border: 0.013333rem solid #000;\n  margin-left: 50%;\n  left: -0.933333rem;\n  background-image: url(../images/choose.png);\n  background-size: 100%;\n  z-index: 1;\n  opacity: 0;\n}\n\n.tipImg {\n  position: relative;\n  width: 1.333333rem;\n  height: 1.333333rem;\n  background-size: 100%;\n  border-width: 0.266667rem;\n  border-style: solid;\n  border-radius: 0.933333rem;\n  margin: auto;\n  top: 0;\n  transform: rotate(0deg);\n  -webkit-animation: ani1 10s;\n}\n\n.tipTitle {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  margin-top: 0.266667rem;\n}\n\n[data-dpr=\"1\"] .tipTitle {\n  font-size: 18px;\n}\n\n[data-dpr=\"2\"] .tipTitle {\n  font-size: 36px;\n}\n\n[data-dpr=\"3\"] .tipTitle {\n  font-size: 54px;\n}\n\n@-webkit-keyframes ani1 {\n  0% {\n    transform: rotate(0deg);\n  }\n\n  15% {\n    transform: rotate(105deg);\n  }\n\n  45% {\n    transform: rotate(-90deg);\n  }\n\n  60% {\n    transform: rotate(180deg);\n  }\n}"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "#content[_v-3e518ea6] {\n  position: relative;\n}\n\n.tip[_v-3e518ea6] {\n  width: 50%;\n  position: relative;\n  display: inline-block;\n  margin-top: 1.333333rem;\n}\n\n.choose[_v-3e518ea6] {\n  position: absolute;\n  width: 1.84rem;\n  height: 1.84rem;\n  border: 0.013333rem solid #000;\n  margin-left: 50%;\n  left: -0.933333rem;\n  background-image: url(" + __webpack_require__(17) + ");\n  background-size: 100%;\n  z-index: 1;\n  opacity: 0;\n}\n\n.tipImg[_v-3e518ea6] {\n  position: relative;\n  width: 1.333333rem;\n  height: 1.333333rem;\n  background-size: 100%;\n  border-width: 0.266667rem;\n  border-style: solid;\n  border-radius: 0.933333rem;\n  margin: auto;\n  top: 0;\n  -webkit-transform: rotate(0deg);\n          transform: rotate(0deg);\n  -webkit-animation: ani1 10s;\n}\n\n.tipTitle[_v-3e518ea6] {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  margin-top: 0.266667rem;\n}\n\n[data-dpr=\"1\"] .tipTitle[_v-3e518ea6] {\n  font-size: 18px;\n}\n\n[data-dpr=\"2\"] .tipTitle[_v-3e518ea6] {\n  font-size: 36px;\n}\n\n[data-dpr=\"3\"] .tipTitle[_v-3e518ea6] {\n  font-size: 54px;\n}\n\n@-webkit-keyframes ani1 {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n\n  15% {\n    -webkit-transform: rotate(105deg);\n            transform: rotate(105deg);\n  }\n\n  45% {\n    -webkit-transform: rotate(-90deg);\n            transform: rotate(-90deg);\n  }\n\n  60% {\n    -webkit-transform: rotate(180deg);\n            transform: rotate(180deg);\n  }\n}", "", {"version":3,"sources":["/./<input css 2>"],"names":[],"mappings":"AAAA;EACE,mBAAmB;CACpB;;AAED;EACE,WAAW;EACX,mBAAmB;EACnB,sBAAsB;EACtB,wBAAwB;CACzB;;AAED;EACE,mBAAmB;EACnB,eAAe;EACf,gBAAgB;EAChB,+BAA+B;EAC/B,iBAAiB;EACjB,mBAAmB;EACnB,gDAA4C;EAC5C,sBAAsB;EACtB,WAAW;EACX,WAAW;CACZ;;AAED;EACE,mBAAmB;EACnB,mBAAmB;EACnB,oBAAoB;EACpB,sBAAsB;EACtB,0BAA0B;EAC1B,oBAAoB;EACpB,2BAA2B;EAC3B,aAAa;EACb,OAAO;EACP,gCAAwB;UAAxB,wBAAwB;EACxB,4BAA4B;CAC7B;;AAED;EACE,mBAAmB;EACnB,YAAY;EACZ,mBAAmB;EACnB,wBAAwB;CACzB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE,gBAAgB;CACjB;;AAED;EACE;IACE,gCAAwB;YAAxB,wBAAwB;GACzB;;EAED;IACE,kCAA0B;YAA1B,0BAA0B;GAC3B;;EAED;IACE,kCAA0B;YAA1B,0BAA0B;GAC3B;;EAED;IACE,kCAA0B;YAA1B,0BAA0B;GAC3B;CACF","file":"content.vue","sourcesContent":["#content {\n  position: relative;\n}\n\n.tip {\n  width: 50%;\n  position: relative;\n  display: inline-block;\n  margin-top: 1.333333rem;\n}\n\n.choose {\n  position: absolute;\n  width: 1.84rem;\n  height: 1.84rem;\n  border: 0.013333rem solid #000;\n  margin-left: 50%;\n  left: -0.933333rem;\n  background-image: url(../images/choose.png);\n  background-size: 100%;\n  z-index: 1;\n  opacity: 0;\n}\n\n.tipImg {\n  position: relative;\n  width: 1.333333rem;\n  height: 1.333333rem;\n  background-size: 100%;\n  border-width: 0.266667rem;\n  border-style: solid;\n  border-radius: 0.933333rem;\n  margin: auto;\n  top: 0;\n  transform: rotate(0deg);\n  -webkit-animation: ani1 10s;\n}\n\n.tipTitle {\n  position: relative;\n  width: 100%;\n  text-align: center;\n  margin-top: 0.266667rem;\n}\n\n[data-dpr=\"1\"] .tipTitle {\n  font-size: 18px;\n}\n\n[data-dpr=\"2\"] .tipTitle {\n  font-size: 36px;\n}\n\n[data-dpr=\"3\"] .tipTitle {\n  font-size: 54px;\n}\n\n@-webkit-keyframes ani1 {\n  0% {\n    transform: rotate(0deg);\n  }\n\n  15% {\n    transform: rotate(105deg);\n  }\n\n  45% {\n    transform: rotate(-90deg);\n  }\n\n  60% {\n    transform: rotate(180deg);\n  }\n}"],"sourceRoot":"webpack://"}]);
 	
 	// exports
 
@@ -639,42 +639,49 @@
 	            items: [{
 	                imgUrl: "url(../images/literature.png)",
 	                borderColor: "#feaa90",
-	                title: "文艺"
+	                title: "文艺",
+	                index: 1
 	            }, {
 	                imgUrl: "url(../images/sport.png)",
 	                borderColor: "#f08d70",
-	                title: "运动"
+	                title: "运动",
+	                index: 2
 	            }, {
 	                imgUrl: "url(../images/interest.png)",
 	                borderColor: "#84d3b6",
-	                title: "趣味"
+	                title: "趣味",
+	                index: 3
 	            }, {
 	                imgUrl: "url(../images/outdoors.png)",
 	                borderColor: "#73ccac",
-	                title: "户外"
+	                title: "户外",
+	                index: 4
 	            }, {
 	                imgUrl: "url(../images/life.png)",
 	                borderColor: "#00afa8",
-	                title: "生活"
+	                title: "生活",
+	                index: 5
 	            }, {
 	                imgUrl: "url(../images/science.png)",
 	                borderColor: "#019e95",
-	                title: "科普"
+	                title: "科普",
+	                index: 6
 	            }],
 	
-	            chooseFlag: 1
+	            chooseFlag: [1, 1, 1, 1, 1, 1]
 	        };
 	    },
 	    methods: {
 	        chooseOk: function chooseOk(e) {
 	            var that = this;
 	            var target = e.target;
-	            if (that.chooseFlag % 2 != 0) {
+	            var index = target.getAttribute("s");
+	            if (that.chooseFlag[index - 1] % 2 != 0) {
 	                target.style.opacity = "1";
 	            } else {
 	                target.style.opacity = "0";
 	            }
-	            that.chooseFlag++;
+	            that.chooseFlag[index - 1]++;
 	        }
 	    },
 	    ready: function ready() {}
@@ -684,7 +691,7 @@
 /* 19 */
 /***/ function(module, exports) {
 
-	module.exports = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"content\" _v-3e518ea6=\"\">\n        <div class=\"tip\" v-for=\"item in items\" _v-3e518ea6=\"\">\n            <div class=\"choose\" @click=\"chooseOk\" _v-3e518ea6=\"\"></div>\n            <div class=\"tipImg\" :style=\"{backgroundImage:item.imgUrl, borderColor: item.borderColor}\" _v-3e518ea6=\"\"></div>\n            <div class=\"tipTitle\" _v-3e518ea6=\"\">{{item.title}}</div>\n        </div>\n</div>\n";
+	module.exports = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"content\" _v-3e518ea6=\"\">\n        <div class=\"tip\" v-for=\"item in items\" _v-3e518ea6=\"\">\n            <div class=\"choose\" @click=\"chooseOk\" :s=\"item.index\" _v-3e518ea6=\"\"></div>\n            <div class=\"tipImg\" :style=\"{backgroundImage:item.imgUrl, borderColor: item.borderColor}\" _v-3e518ea6=\"\"></div>\n            <div class=\"tipTitle\" _v-3e518ea6=\"\">{{item.title}}</div>\n        </div>\n</div>\n";
 
 /***/ },
 /* 20 */
